@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/senabibi/PostgresqlTopTen">
-    <img src="  " alt="Logo" width="500" height="400">
+    <img src="https://github.com/senabibi/PostgresqlTopTen/blob/main/logo.png" alt="Logo" width="500" height="400">
   </a>
   <h3 align="center">Retail Sales Data Analysis</h3>
   <p align="center">
