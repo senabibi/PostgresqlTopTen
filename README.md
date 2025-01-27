@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/senabibi/PostgresqlTopTen">
-    <img src="https://files.oaiusercontent.com/file-GqSgx5HjCtzGcoYL7R9BVQ?se=2025-01-27T11%3A57%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D099351d8-a03b-4ba4-8a47-4d2529dac3d7.webp&sig=9BL2kAjLroUgApEZ29abUaC9hVJofIqBl7t8ed0Gc3Y%3D" alt="Logo" width="500" height="400">
+    <img src="  " alt="Logo" width="500" height="400">
   </a>
   <h3 align="center">Retail Sales Data Analysis</h3>
   <p align="center">
