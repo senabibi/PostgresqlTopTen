@@ -1,8 +1,16 @@
 # Retail Sales Data Analysis
 
+[![Contributors](https://img.shields.io/github/contributors/senabibi/repository)](https://github.com/senabibi/repository/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/senabibi/repository)](https://github.com/senabibi/repository/network/members)
+[![Stargazers](https://img.shields.io/github/stars/senabibi/repository)](https://github.com/senabibi/repository/stargazers)
+[![Issues](https://img.shields.io/github/issues/senabibi/repository)](https://github.com/senabibi/repository/issues)
+[![MIT License](https://img.shields.io/github/license/senabibi/repository)](https://opensource.org/licenses/MIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/senabibi)
+
+
 <div align="center">
   <a href="https://github.com/senabibi/PostgresqlTopTen">
-    <img src="https://github.com/senabibi/PostgresqlTopTen/blob/main/logo.png" alt="Logo" width="500" height="400">
+    <img src="https://github.com/senabibi/PostgresqlTopTen/blob/main/logo.png" alt="Logo" width="800" height="500">
   </a>
   <h3 align="center">Retail Sales Data Analysis</h3>
   <p align="center">
@@ -67,6 +75,12 @@ This project demonstrates how to effectively utilize SQL in analyzing retail sal
 ---
 
 ## Built With
+### Built With
+
+- **SQL**: The core language for database manipulation and analysis.
+- **PostgreSQL**: A reliable and powerful relational database management system (RDBMS) for handling large-scale datasets.
+- **Markdown**: Used for project documentation and presentation to ensure clarity and organization.
+
 This project employs industry-standard tools and technologies to deliver efficient and professional results. SQL serves as the core querying language for data manipulation and analysis, while PostgreSQL is used as the relational database management system (RDBMS) to handle large-scale transactional data. Markdown is utilized for detailed documentation, ensuring that the project is presented in a clear and organized manner.
 
 By integrating these features and tools, this project simulates the challenges and requirements of real-world retail data analysis tasks, highlighting the critical role of SQL in data-driven decision-making and business intelligence.
@@ -76,6 +90,9 @@ By integrating these features and tools, this project simulates the challenges a
 
 ---
 
+- [PostgreSQL](https://www.postgresql.org/download/): You'll need PostgreSQL to run this project.
+- [Visual Studio Code](https://code.visualstudio.com/): Use this IDE for code editing and running scripts locally.
+- [Brave](https://brave.com/): A recommended browser for optimal viewing and performance of the project docs and demos.
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 # Priority Queue and Retail Sales Analysis
@@ -84,10 +101,11 @@ This project involves implementing a Priority Queue for analyzing retail sales d
 
 ## Installation
 
-
 ### 1. PostgreSQL Installation
+* [PostgreSQL](https://www.postgresql.org/download/): You'll need PostgreSQL to run this project.
 Download and install PostgreSQL from the [official PostgreSQL website](https://www.postgresql.org/download/).
-
+* [Visual Studio Code](https://code.visualstudio.com/): Use this IDE for code editing and running scripts locally.
+*  [Brave](https://brave.com/): A recommended browser for optimal viewing and performance of the project docs and demos.
 Once installed, configure the PostgreSQL database to integrate with the project files.
 
 ### 2. Database Setup
