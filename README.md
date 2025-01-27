@@ -1,11 +1,13 @@
 # Retail Sales Data Analysis
 
-[![Contributors](https://img.shields.io/github/contributors/senabibi/repository)](https://github.com/senabibi/repository/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/senabibi/repository)](https://github.com/senabibi/repository/network/members)
-[![Stargazers](https://img.shields.io/github/stars/senabibi/repository)](https://github.com/senabibi/repository/stargazers)
-[![Issues](https://img.shields.io/github/issues/senabibi/repository)](https://github.com/senabibi/repository/issues)
-[![MIT License](https://img.shields.io/github/license/senabibi/repository)](https://opensource.org/licenses/MIT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/senabibi)
+[![Contributors](https://img.shields.io/github/contributors/senabibi/PostgresqlTopTen)](https://github.com/senabibi/PostgresqlTopTen/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/senabibi/PostgresqlTopTen)](https://github.com/senabibi/PostgresqlTopTen/network/members)
+[![Stargazers](https://img.shields.io/github/stars/senabibi/PostgresqlTopTen)](https://github.com/senabibi/PostgresqlTopTen/stargazers)
+[![Issues](https://img.shields.io/github/issues/senabibi/PostgresqlTopTen)](https://github.com/senabibi/PostgresqlTopTen/issues)
+[![MIT License](https://img.shields.io/github/license/senabibi/PostgresqlTopTen)](https://opensource.org/licenses/MIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nursena%20Bitirgen-blue)](https://www.linkedin.com/in/nursena-bitirgen-5743341b9/)
+
+
 
 
 <div align="center">
