@@ -123,7 +123,7 @@ CREATE TABLE retail_sales (
 ## Usage
 
 <div align="center">
-    <img src="https://github.com/senabibi/PriorityQueue/blob/main/uml.png" alt="Priority Queue UML">
+    <img src="https://github.com/senabibi/PostgresqlTopTen/blob/main/POST.png" alt="Post ERD">
 </div>
 
 To use the Priority Graph project and set up your work routine, follow these steps:
